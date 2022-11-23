@@ -4,21 +4,20 @@
 ## Hi, I am Shweta.🙂 
 
 
-<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
-<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/QdYVeDStxnrvfpmvef/giphy.gif">
-<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif">
 
-
-
+<img align="center" alt="zerotwo-pic" height="600" width="1600" style="border-radius:50px;" src="https://github.com/ShwetaJagadale1606/ShwetaJagadale1606/blob/main/.github/workflows/Orange%20Autumn%20Aesthetic%20November%20Photo%20Desktop%20Wallpaper%20(2).gif">
+ 
+ 
+<img align="center" alt="zerotwo-pic" height="600" width="1600" style="border-radius:50px;" src="https://github.com/ShwetaJagadale1606/ShwetaJagadale1606/blob/main/.github/workflows/Orange%20Autumn%20Aesthetic%20November%20Photo%20Desktop%20Wallpaper%20(3).gif">
+ 
+ 
+<img align="center" alt="zerotwo-pic" height="600" width="1600" style="border-radius:50px;" src="https://github.com/ShwetaJagadale1606/ShwetaJagadale1606/blob/main/.github/workflows/Orange%20Autumn%20Aesthetic%20November%20Photo%20Desktop%20Wallpaper%20(4).gif">
+ 
 #
  
  </div>
 <div align="center">
-
-<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=ShwetaJagadale1606&include_all_commits=true&count_private=true&show_icons=true&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> &nbsp; &nbsp;
-<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant2116&layout=compact&langs_count=7&theme=tokyonight&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40"/>
    
-  #
  <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Handshake.gif" height="30px"></h4>
  
 
