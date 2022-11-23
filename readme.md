@@ -5,13 +5,13 @@
 
 
 
-<img align="center" alt="zerotwo-pic" height="600" width="1600" style="border-radius:50px;" src="https://github.com/ShwetaJagadale1606/ShwetaJagadale1606/blob/main/.github/workflows/Orange%20Autumn%20Aesthetic%20November%20Photo%20Desktop%20Wallpaper%20(2).gif">
+<img align="center" alt="zerotwo-pic" height="600" width="1600" style="border-radius:50px;" src="https://github.com/ShwetaJagadale1606/ShwetaJagadale1606/blob/main/.github/workflows/GITHUB-README.gif">
  
  
-<img align="center" alt="zerotwo-pic" height="600" width="1600" style="border-radius:50px;" src="https://github.com/ShwetaJagadale1606/ShwetaJagadale1606/blob/main/.github/workflows/Orange%20Autumn%20Aesthetic%20November%20Photo%20Desktop%20Wallpaper%20(3).gif">
+<img align="center" alt="zerotwo-pic" height="600" width="1600" style="border-radius:50px;" src="https://github.com/ShwetaJagadale1606/ShwetaJagadale1606/blob/main/.github/workflows/GITHUB-README%20(1).gif">
  
  
-<img align="center" alt="zerotwo-pic" height="600" width="1600" style="border-radius:50px;" src="https://github.com/ShwetaJagadale1606/ShwetaJagadale1606/blob/main/.github/workflows/Orange%20Autumn%20Aesthetic%20November%20Photo%20Desktop%20Wallpaper%20(4).gif">
+<img align="center" alt="zerotwo-pic" height="600" width="1600" style="border-radius:50px;" src="https://github.com/ShwetaJagadale1606/ShwetaJagadale1606/blob/main/.github/workflows/GITHUB-README%20(2).gif">
  
 #
  
