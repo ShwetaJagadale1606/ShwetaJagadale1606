@@ -11,7 +11,7 @@
 <img align="center" alt="zerotwo-pic" height="600" width="1600" style="border-radius:50px;" src="https://github.com/ShwetaJagadale1606/ShwetaJagadale1606/blob/main/.github/workflows/GITHUB-README%20(1).gif">
  
  
-<img align="center" alt="zerotwo-pic" height="600" width="1600" style="border-radius:50px;" src="https://github.com/ShwetaJagadale1606/ShwetaJagadale1606/blob/main/.github/workflows/GITHUB-README%20(2).gif">
+<img align="center" alt="zerotwo-pic" height="600" width="1600" style="border-radius:50px;" src="https://github.com/ShwetaJagadale1606/ShwetaJagadale1606/blob/main/.github/workflows/GITHUB-README%20(3).gif">
  
 #
  
