@@ -6,8 +6,8 @@
 <img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif">
 
 
-## Hi, I am Nishant.🙂 
-## Skills : Data Science | Machine Learning | Deep Learning | UI/UX | Web Development
+## Hi, I am Shweta.🙂 
+## Skills : Python | Machine Learning | Web Development
     
 </div>
 
@@ -15,23 +15,19 @@
     
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logocolor=orange)
 ![Css 3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![Markdown](https://img.shields.io/badge/MARKDOWN-000?style=for-the-badge&logo=markdown&logoColor=green)
 
 #### Design/Development Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-000?style=for-the-badge&logo=jupyter&logoColor=orange)
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
 
     
 #### Database/State
 ![Firebase](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
@@ -47,7 +43,7 @@
   
 #
 
-  #### ✨ Hello there! Welcome to my profile! I'm a 19 year old Computer Science student :)👾 I have a passion for creating and learning new things.🌠 Currently studying Machine Learing & AI.🧑🏻‍💻 Thanks for stopping by, see you around! 🥀
+  #### ✨ Hello there! Welcome to my profile! I'm a 20 year old Computer Science student :)👾 I have a passion for creating and learning new things.🌠 Currently studying Machine Learing & AI.🧑🏻‍💻 Thanks for stopping by, see you around! 🥀
   
   
   #
@@ -58,10 +54,4 @@
 [<img src='https://github.com/Nishant2116/Nishant2116/blob/23fd4f57e1c99cee4fd5911d7c143bee40a9111a/.github/workflows/5296765_camera_instagram_instagram%20logo_icon.png' alt='instagram' height='40'>](https://www.instagram.com/_nd_216/)&nbsp;
 [<img src='https://github.com/Nishant2116/Nishant2116/blob/4dd52a3e9db54414826a7d5fc3deecabfaaa33e8/.github/workflows/5296514_bird_tweet_twitter_twitter%20logo_icon.png' alt='twitter' height='40'>](https://twitter.com/Nishant_216)
  
-</div>
-<div>
-
-#
-![@nishant216's Holopin board](https://holopin.io/api/user/board?user=nishant216)
-
 </div>
